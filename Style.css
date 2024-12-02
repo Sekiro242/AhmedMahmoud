@@ -1,6 +1,4 @@
-/* styles.css */
 
-/* General Styles */
 * {
     margin: 0;
     padding: 0;
@@ -13,9 +11,9 @@ body {
     padding: 20px;
 }
 
-/* Header Styles */
+
 header {
-    background-color: #333; /* Changed to match other pages */
+    background-color: #333; 
     color: white;
     text-align: center;
     padding: 30px 0;
@@ -29,7 +27,7 @@ header p {
     font-size: 18px;
 }
 
-/* Section Styles */
+
 section {
     margin: 40px 0;
     padding: 20px;
@@ -57,7 +55,7 @@ section h2 {
 .skill-button {
     display: inline-block;
     padding: 10px 20px;
-    background-color: #007BFF; /* Button color */
+    background-color: #007BFF;
     color: white;
     text-decoration: none;
     border-radius: 4px;
@@ -65,7 +63,7 @@ section h2 {
 }
 
 .skill-button:hover {
-    background-color: #0056b3; /* Darker shade on hover */
+    background-color: #0056b3; 
 }
 
 /* Projects Section */
@@ -104,7 +102,7 @@ section h2 {
 .contact button {
     width: 80%;
     padding: 12px;
-    background-color: #4CAF50;
+    background-color: #007BFF;
     color: white;
     border: none;
     border-radius: 4px;
@@ -112,7 +110,7 @@ section h2 {
 }
 
 .contact button:hover {
-    background-color: #45a049;
+    background-color: #0056b3;
 }
 
 /* Footer Styles */
